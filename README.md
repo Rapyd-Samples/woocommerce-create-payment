@@ -1,7 +1,6 @@
-# woocommerce-create-payment
+# woocommerce-create-payment INTERNAL HACKATHON WINNER
 
-This is an example project that shows how to use Rapyd's plugins service to create a seamless payment.
-=======
+### This is an example project that shows how to use Rapyd's plugins service to create a seamless payment.
 
 The project purpose is to show how to create a secure PCI compliant payment using a credit card, then save the tokens of the card and create a payment using this tokens.
 
