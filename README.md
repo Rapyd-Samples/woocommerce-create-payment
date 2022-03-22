@@ -1,4 +1,4 @@
-# woocommerce-create-payment INTERNAL HACKATHON WINNER
+# woocommerce-create-payment - INTERNAL HACKATHON WINNER
 
 ### This is an example project that shows how to use Rapyd's plugins service to create a seamless payment.
 
