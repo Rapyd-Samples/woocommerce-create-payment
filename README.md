@@ -1,9 +1,11 @@
-This is an example project that shows how to use rapyd's plugins service to create a seamless payment
+# woocommerce-create-payment
+
+This is an example project that shows how to use Rapyd's plugins service to create a seamless payment.
 =======
 
-The project Purpose is to show how to create a secure pci compliant payment using credit card, then save the tokens of the card and create a payment using this tokens.
+The project purpose is to show how to create a secure PCI compliant payment using a credit card, then save the tokens of the card and create a payment using this tokens.
 
-running the project:
+Running the project:
 -----------
 1. npm i
 2. set const my_base_url to your domain in index.js file (will not work localhost)
