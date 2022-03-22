@@ -61,5 +61,9 @@ Running the project:
         }
     }
    ```
+   
+## Get Support 
+- https://community.rapyd.net 
+- https://support.rapyd.net 
 
  
