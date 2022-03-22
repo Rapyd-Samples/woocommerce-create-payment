@@ -1,0 +1,26 @@
+{
+  "name": "seamless_github",
+  "version": "1.0.0",
+  "description": "This is an example project that shows how to use rapyd's plugins service to create a seamless payment\r =======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "utf8": "^3.0.0",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://borisjaskerovich@bitbucket.org/cashdash/rapydseamlessplugin.git"
+  },
+  "homepage": "https://bitbucket.org/cashdash/rapydseamlessplugin#readme"
+}
