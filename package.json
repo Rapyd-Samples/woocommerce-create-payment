@@ -16,7 +16,7 @@
     "request": "^2.88.2",
     "request-promise-native": "^1.0.9",
     "utf8": "^3.0.0",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "repository": {
     "type": "git",
